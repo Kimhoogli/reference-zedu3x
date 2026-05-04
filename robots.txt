@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Kimhoogli.github.io/reference-zedu3x/sitemap.xml
